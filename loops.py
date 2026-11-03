@@ -11,6 +11,7 @@ print("This loop prints your name three times:")
 for _ in range(3):
 	print("Hello,", name + "!")
 
+
 print("\nRANGE: count through a sequence of numbers")
 for number in range(1, 4):
 	print("Number:", number)
